@@ -75,7 +75,7 @@ class Ui_MorseTranslator(object):
         self.chanceButton.setMaximumSize(QtCore.QSize(40, 40))
         self.chanceButton.setStyleSheet("QPushButton{\n"
 "border:None;\n"
-"background-image: url(Morse Latin/repeat.svg);\n"
+"background-image: url(morse-translate/repeat.svg);\n"
 "\n"
 "}")
         self.chanceButton.setText("")
