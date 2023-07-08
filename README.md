@@ -1,6 +1,6 @@
-## PyQt5 Google Translate
+## PyQt5 Morse Translate
 
-This is a simple application built with PyQt5 that allows you to translate text similar to Google Translate. It provides an interface where you can enter text in the "Translate Text" field, click the "Translate" button, and the translated text will be displayed in the "Translated Text" field. Additionally, there is a "Swap" button to swap the contents of the two fields.
+This is a simple application built with PyQt5 that allows you to translate text similar to Morse Translate. It provides an interface where you can enter text in the "Translate Text" field, click the "Translate" button, and the translated text will be displayed in the "Translated Text" field. Additionally, there is a "Swap" button to swap the contents of the two fields.
 
 ### Features:
 - Translate text from one field to another.
