@@ -21,4 +21,4 @@ This is a simple application built with PyQt5 that allows you to translate text 
 2. Install PyQt5 -> pip install PyQt5
 3. python morse_translate.py
 
-# Thanks! Please subscribe my youtube channel @SoftwareShorts .
+#### Thanks! Please subscribe my youtube channel @SoftwareShorts .
